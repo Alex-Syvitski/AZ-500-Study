@@ -12,6 +12,8 @@ I wadded the hands on modules at the end of each Microsoft material which I am u
 
 Best of luck in your studies if you are using and feel free to request edit if you would like to help update.
 
+5/10/23 - As I go through practice exams I am adding topics I find need to be fleshed out. Added so far are Azure Blueprints, Azure Automation State Configuration, Microsoft Graph. More will be added until I write my exam.
+
 Cheers,
 
 Alex
