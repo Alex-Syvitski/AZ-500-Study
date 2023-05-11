@@ -11,4 +11,5 @@ I will also publish the hands on modules at the end of each Microsoft material w
 Best of luck in your studies if you are using and feel free to edit as they get old and out of date.
 
 Cheers,
+
 Alex
