@@ -1,3 +1,5 @@
+5/23/2023 - Removed incorrect Entra Stuff. Added notes and links to bottom
+
 # AZ-500-Study
 Microsoft Azure Security Engineer Associate (AZ-500) Study Notes
 
