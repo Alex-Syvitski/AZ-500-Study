@@ -5,7 +5,7 @@
 # AZ-500-Study
 Microsoft Azure Security Engineer Associate (AZ-500) Study Notes
 
-Created during the first week of May, 2023 using Microsoft Exam guide and ChatGPT. 
+Created during the first week of May, 2023 using Microsoft Exam guide, Microsoft Articiles, Google Bard and OpenAI ChatGPT. 
 
 The following are the notes I have created for studying AZ-500. I have them listed in word, pdf and generated a wiki in the hopes the community may use. Any content made via  ChatGPT - may be out of date.
 I suggest using this combined with Microsoft AZ-500 Study material. 
