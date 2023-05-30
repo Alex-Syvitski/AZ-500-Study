@@ -1,3 +1,4 @@
+5/30/2023 - updated docs to match wiki
 5/23/2023 - Removed incorrect Entra Stuff. Added notes and links to bottom
 
 # AZ-500-Study
