@@ -1,4 +1,6 @@
-5/30/2023 - updated docs to match wiki
+6/5/2023 - alot of helpful additions to end - docs and wiki are the same. Alot of formatting updates on doc, I prefer reading it over wiki, in the future I wont do a wiki for my notes, but fun practice.
+
+5/30/2023 - updated docs to match wiki, more info added to end
 
 5/23/2023 - Removed incorrect Entra Stuff. Added notes and links to bottom
 
