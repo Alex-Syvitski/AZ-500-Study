@@ -18,7 +18,7 @@ https://learn.microsoft.com/en-us/certifications/exams/az-500/
 
 I added the hands on modules at the end of each Microsoft material which I am using to help me prepare for labs during exam and develop any missing hands on experience.
 
-Best of luck in your studies if you are using and feel free to request edit if you would like to help update.
+Best of luck in your studies!! 
 
 Cheers,
 
